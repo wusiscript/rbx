@@ -1,5 +1,4 @@
 return {
-  ["123fa98"] = true,
   ["名字"] = true,
   ["名字"] = true,
   ["名字"] = true,
